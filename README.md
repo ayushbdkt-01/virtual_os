@@ -104,7 +104,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 ---
 
 ## 📧 Contact
-For questions or feedback, contact **Chetan Pandey** at [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, contact **Chetan Pandey** at [your-email@example.com](mailto:ayushbudhlakoti2004@gmail.com).
 
 Happy coding! 😊
 
